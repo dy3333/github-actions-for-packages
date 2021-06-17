@@ -1,6 +1,10 @@
-# Tic Tac Toe Game
+## 선결제 시스템 웹구현
+### 이더리움 기반의 스마트 컨트랙트를 통한 선결제 시스템의 웹구현
+: 코로나 19가 장기적으로 지속됨에 따라 대학가 상권이 경제적인 타격을 입은 문제점을 해결하고자,<br>
+이더리움 기반의 스마트 컨트랙트를 통한 식당 선결제 웹 사이트를 구현한다.
 
-Let's learn about CD while using GitHub Actions and the GitHub Package Registry!
+### 펀딩 페이지
 
 
-Head over to your first [Pull Request](../../pull/1) to get startedㄷ
+### - powerG (7팀)
+
